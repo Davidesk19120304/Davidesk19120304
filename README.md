@@ -1,24 +1,83 @@
-# 💫 About Me:
-Hola! Soy un programador de 22 años de Venezuela, apasionado por la tecnología y con un fuerte deseo de seguir creciendo cada día. Me considero una persona curiosa, autodidacta y orientada a los resultados, siempre buscando nuevas oportunidades para aprender, mejorar y aplicar mis conocimientos en proyectos reales.<br><br>Disfruto enfrentar desafíos que me obliguen a pensar diferente y a salir de mi zona de confort. Tengo un interés especial por el desarrollo de software y la construcción de soluciones que realmente aporten valor. Mi meta es destacar en el mundo del desarrollo, trabajar en proyectos innovadores y convertirme en un profesional altamente competente.<br><br>Estoy abierto a colaborar, contribuir en proyectos interesantes y formar parte de equipos donde pueda aportar mis habilidades mientras sigo aprendiendo de los demás.<br>Si estás buscando a alguien con energía, compromiso y muchas ganas de crecer, ¡aquí estoy!
+<div align="center">
 
+# Hola, soy Guillermo Adrianza 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guillermo_david12) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@guillermoadrianza) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Guillermox43fcb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilleadr16@gmail.com) 
+### Ingeniero de Sistemas · Análisis de Datos · Automatización & IA aplicada
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Davidesk19120304&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Davidesk19120304&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidesk19120304&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+*Convierto datos y procesos manuales en herramientas medibles, útiles y fáciles de mantener.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Davidesk19120304&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Davidesk19120304&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧭 Sobre mí
+
+Soy Ingeniero de Sistemas graduado en agosto de 2026 del Instituto Universitario Politécnico "Santiago Mariño" (Cabimas, Venezuela). Mi enfoque está en el **análisis de datos**, la **automatización de procesos** y las **aplicaciones de IA** que resuelven problemas reales.
+
+Me considero autodidacta y orientado a resultados. Disfruto los retos que me obligan a pensar distinto y aprendo rápido cuando tengo un objetivo claro.
+
+## 🔭 Proyecto destacado
+
+**[Sistema de Análisis y Monitorización de Tráfico de Red con Detección de Anomalías](https://github.com/Davidesk19120304/SistemaMonitorizacionRed)** *(2026)*
+
+- Aplicación de escritorio en **C# / .NET** para capturar, analizar y visualizar tráfico de red en tiempo real.
+- Captura de paquetes con **SharpPcap** y almacenamiento persistente en **MySQL**.
+- Detección adaptativa de anomalías basada en medias, desviación estándar y umbrales dinámicos.
+- Filtros por protocolo e IP, alertas de eventos de seguridad y dashboards de latencia, velocidad, ancho de banda y tráfico por protocolo.
+- Exportación de reportes en **PDF, Excel y CSV**.
+
+## 🛠️ Stack técnico
+
+**Lenguajes:** Python (intermedio) · C# (intermedio) · SQL (intermedio) · JavaScript (básico–intermedio)
+
+**Datos e IA:** pandas · NumPy · Matplotlib · scikit-learn (Isolation Forest) · Jupyter Notebook
+
+**Bases de datos:** MySQL · MariaDB · SQLite · Diseño y gestión de bases de datos relacionales
+
+**Herramientas:** Git · GitHub · Visual Studio · XAMPP · Figma · Microsoft Excel
+
+## 🔬 Explorando ahora
+
+- Aplicaciones de **IA** y desarrollo asistido por IA
+- Automatización de reportes y pipelines de limpieza de datos
+- Detección de anomalías y análisis de rendimiento
+
+## 📫 Busco
+
+Mi primera oportunidad como **Junior Software Developer**, **Data Analyst** o **Data Engineer Junior**, en modalidad **remota**. Estoy abierto a oportunidades internacionales y a colaborar en proyectos donde pueda aportar y seguir creciendo.
+
+## ⚡ Pregúntame sobre
+
+`limpieza de datos` · `detección de anomalías` · `automatización con Python` · `consultas SQL` · `desarrollo con C#`
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Davidesk19120304&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidesk19120304&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Davidesk19120304&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" />
+</p>
+
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:guilleadr16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/guillermo-adrianza-308222426"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/guillermo_david12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@Guillermox43fcb"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Si este perfil te fue útil, una ⭐ en mis repositorios me ayuda mucho. ¡Gracias por pasar! 🚀</sub>
+</p>
