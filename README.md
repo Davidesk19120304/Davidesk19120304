@@ -23,10 +23,10 @@ Trabajo con **Python (pandas, NumPy)**, **SQL** y **Power BI** para extraer, lim
 ## 📊 Proyectos de análisis de datos
 
 | Proyecto | Qué resuelve | Stack |
-|---|---|---|
-| [**Ventas y rentabilidad — Global Superstore**](https://github.com/Davidesk19120304/sales-dashboard) | 51.290 transacciones: dónde se pierde margen y por qué. Hallazgo: con descuentos >21 % el margen se vuelve negativo. | Python · pandas · Power BI · DAX |
-| [**Rotación de personal — HR Analytics**](https://github.com/Davidesk19120304/hr-analytics) | 1.470 empleados: qué perfil concentra las salidas. El grupo con horas extra y satisfacción baja rota al 36,6 %. | Python · pandas · Power BI |
-| [**Churn de clientes — Telco**](https://github.com/Davidesk19120304/Telco_Customer_Churn_Analysis) | 7.043 clientes: abandono según contrato y antigüedad (42,71 % en contratos mensuales). | Python · pandas · Power BI · DAX |
+| :--- | :--- | :--- |
+| **Ventas y rentabilidad — Global Superstore**<br>[Ver Dashboard](https://app.powerbi.com/reportEmbed?reportId=5abb533d-56b0-499b-aa71-11fdff83071b&autoAuth=true&ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c) · [Código](https://github.com/Davidesk19120304/sales-dashboard) | 51.290 transacciones: dónde se pierde margen y por qué. Hallazgo: con descuentos >21 % el margen se vuelve negativo. | Python · pandas · Power BI · DAX |
+| **Rotación de personal — HR Analytics**<br>[Ver Dashboard](https://app.powerbi.com/reportEmbed?reportId=83f21930-1bae-4801-8b4f-2747cc69f8c9&autoAuth=true&ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c) · [Código](https://github.com/Davidesk19120304/hr-analytics) | 1.470 empleados: qué perfil concentra las salidas. El grupo con horas extra y satisfacción baja rota al 36,6 %. | Python · pandas · Power BI |
+| **Churn de clientes — Telco**<br>[Ver Dashboard](https://app.powerbi.com/reportEmbed?reportId=07c38c95-d6b8-46fb-93d3-e85e05535445&autoAuth=true&ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c) · [Código](https://github.com/Davidesk19120304/Telco_Customer_Churn_Analysis) | 7.043 clientes: abandono según contrato y antigüedad (42,71 % en contratos mensuales). | Python · pandas · Power BI · DAX |
 
 Cada repositorio incluye: pregunta de negocio, decisiones de limpieza documentadas, valores de control para verificar los resultados, limitaciones explícitas y el dashboard en `.pbix`.
 
